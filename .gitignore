@@ -1,0 +1,8 @@
+# Initial commit: City Insights API Project
+
+API_Keys.env
+*.env
+__pycache__/
+venv/
+.idea/
+*.pyc
